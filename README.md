@@ -1,4 +1,4 @@
-🚀 Zero-Rupee Termux Website Hosting
+ Zero-Rupee Termux Website Hosting
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:06b6d4&height=220&section=header&text=Host%20Your%20Website%20From%20Android&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Termux%20%7C%20IPv6%20%7C%20DuckDNS%20%7C%20Caddy%20%7C%20HTTPS&descAlignY=60&descSize=17" width="100%"/></p><p align="center"><a href="https://github.com/termux/termux-app">
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
